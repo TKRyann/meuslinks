@@ -1,43 +1,69 @@
-# Meus Links Website
+# Meus Links • Website 🔗
 
-Este é um site simples baseado no conceito do Linktree, criado por mim usando HTML e CSS. O objetivo é fornecer uma maneira fácil e organizada de compartilhar vários links importantes em um só lugar.
+Este projeto é um **website pessoal no estilo Linktree**, criado para centralizar meus principais links em um único lugar, priorizando **design moderno**, **experiência mobile** e **simplicidade**. Algumas melhorias visuais e otimizações de código foram realizadas com o auxílio de **Inteligência Artificial (Claude AI)**, contribuindo para maior produtividade no desenvolvimento.
 
-## Recursos
+---
 
-- Página inicial com uma breve introdução e informações sobre mim.
-- Lista de links personalizados para as minhas redes sociais, portfólio, blog, projetos e outros sites relevantes.
-- Design limpo e responsivo, permitindo uma boa experiência de visualização tanto em dispositivos móveis quanto em desktops.
-- Estrutura HTML semântica para melhor acessibilidade e otimização para mecanismos de busca.
-- Estilização personalizada usando CSS para tornar o site atraente e coeso com a minha identidade visual.
+## 📱 Demonstração
 
-## Tecnologias utilizadas
+- Interface otimizada para **smartphones**
+- Navegação simples e intuitiva
+- Transições suaves entre interações
+- Layout consistente em diferentes tamanhos de tela
 
-- HTML5 para a estrutura e marcação do conteúdo.
-- CSS3 para a estilização e aparência do site.
-- Responsividade para garantir uma experiência consistente em diferentes tamanhos de tela.
-- Semântica HTML para melhorar a acessibilidade e indexação do site pelos mecanismos de busca.
+---
 
-## Uso
+## ✨ Funcionalidades
 
-1. Faça o download ou clone o repositório do projeto.
+- Lista de links personalizados (redes sociais, portfólio e projetos).
+- **Modo Claro e Escuro (Dark/Light Mode)**.
+- Design moderno inspirado em páginas de link na bio.
+- Layout **100% responsivo**.
+- Estrutura semântica para melhor acessibilidade e SEO.
 
-2. Abra o arquivo `index.html` em um navegador web.
+---
 
-3. Navegue pelos links fornecidos para acessar as diferentes páginas ou sites.
+## 🎨 Design e Experiência do Usuário
 
-4. Personalize o conteúdo do site alterando os links e adicionando informações relevantes.
+- Estilo minimalista e elegante.
+- Botões bem definidos e acessíveis ao toque.
+- Foco em experiência **mobile-first**.
+- Cores e tipografia pensadas para boa legibilidade.
+- Interface limpa, sem poluição visual.
 
-## Contribuição
+---
 
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request com as suas melhorias ou sugestões.
+## 🛠 Tecnologias Utilizadas
 
-## Licença
+- **HTML5** — Estrutura semântica e acessível.
+- **CSS3** — Estilização, responsividade e animações.
+- **JavaScript (Vanilla)** —
+  - Controle de tema (Dark/Light)
 
-Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você é livre para usar, modificar e distribuir o código conforme desejar.
+---
 
-## Contato
+## 🎯 Objetivo do Projeto
 
-Para qualquer dúvida, sugestão ou colaboração, você pode entrar em contato comigo através do meu endereço de e-mail:(mailto:ryann.gto@gmail.com) ou whatsapp: (https://wa.me/5598989028196).
+- Centralizar meus principais links em um único endereço.
+- Criar uma presença online profissional.
+- Praticar boas práticas de desenvolvimento web.
+- Disponibilizar um site leve, rápido e funcional.
+- Utilizar como página de **link na bio** e portfólio pessoal.
 
-Espero que gostem!!
+---
 
+## 🚀 Possíveis Melhorias Futuras
+
+- Adição de novos idiomas.
+- Integração com analytics.
+- Links dinâmicos via JSON.
+- Melhorias em acessibilidade (ARIA).
+- Novas animações e personalizações visuais.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kherlysson Ryann**  
+🚀 Graduado em Análise e Desenvolvimento de Sistemas  
+💙 Sempre aprendendo e evoluindo como desenvolvedor
